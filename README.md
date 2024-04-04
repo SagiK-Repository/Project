@@ -3,6 +3,7 @@
 <br>
 
 # Project
+- 요구사항 : https://github.com/SagiK-Repository/Project/issues/1
 
 
 ### 제작자
